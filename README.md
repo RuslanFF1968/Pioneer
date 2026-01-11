@@ -1,3 +1,3 @@
 # Pioneer
 Pioneering
-Nice!
+It's nice!
